@@ -1,0 +1,74 @@
+.line{
+    margin: 0!important;
+    padding: 0!important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box1{
+    background-color: #fff;
+    height: 52rem;
+    font-size: 2.8rem;
+}
+.boxes{
+    text-align: center;
+}
+.box2{
+    background-color: rgba(11, 11, 66, 0.959);
+    color: #fff;
+    height: 52rem;
+}
+.under{
+    border-bottom: 0.3rem solid rgba(14, 14, 161, 0.959);
+    width: 12%;
+    margin: auto;
+}
+.boxes1{
+    font-size: 1rem;
+    margin: 3rem;
+}
+.list{
+    border-bottom: 0.2rem solid rgba(60, 60, 61, 0.959);
+    width: 80%;
+}
+.semi{
+    width: 90px;
+    height:45px;
+    background-color: rgb(48, 5, 128);
+    border-top-left-radius: 10rem;
+    border-top-right-radius: 10rem;
+    margin: auto;
+}
+.btn1{
+    background-color: rgb(128, 128, 128);
+    width: 50%;
+    height: 3rem;
+    border-radius: 2rem;
+    margin-left: 6rem;
+    margin-bottom: 2rem;
+}
+.btn2{
+    background-color: rgb(48, 5, 128);
+    width: 30%;
+    height: 3rem;
+    border-radius: 2rem;
+    margin: auto;
+}
+.mid{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.bon{
+    margin-bottom: 6rem;
+}
+.btn3{
+    background-color: rgb(128, 128, 128);
+    width: 30%;
+    height: 3rem;
+    border-radius: 2rem;
+    margin: auto;
+}
+.footer{
+    background-color: rgb(48, 5, 128);
+    width: 100%;
+    height: 3rem;
+    margin: auto;
+}
